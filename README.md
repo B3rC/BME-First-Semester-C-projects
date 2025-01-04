@@ -9,6 +9,7 @@ This repository contains the C projects I developed during my first semester at 
 - **Features:**
   - Dynamic board size (adjustable dimensions).
   - Computer opponent with difficulty levels powered by the minimax algorithm.
+  - Save and load functionality to store and resume game progress.
   - Graphical user interface built using SDL2.
 
 
