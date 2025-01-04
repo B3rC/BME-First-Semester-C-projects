@@ -16,8 +16,9 @@ This is a simple Brainfuck interpreter written in C. It reads Brainfuck code, ex
   - `[`: Jump forward to the matching `]` if the value at the current memory cell is 0
   - `]`: Jump back to the matching `[` if the value at the current memory cell is non-zero
 
-  ## Example output when running the Sierpinski triangle program
+## Example output when running the Sierpinski triangle program
 
+```text
                                 *
                                * *
                               *   *
