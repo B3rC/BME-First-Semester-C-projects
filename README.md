@@ -7,10 +7,10 @@ This repository contains the C projects I developed during my first semester at 
 ### 1. **Tic-Tac-Toe**
 - **Description:** A single-player Tic-Tac-Toe game where you can play against the computer with varying difficulty levels.
 - **Features:**
-  - Dynamic board size (adjustable dimensions).
-  - Computer opponent with difficulty levels powered by the minimax algorithm.
-  - Save and load functionality to store and resume game progress.
-  - Graphical user interface built using SDL2.
+  - Dynamic board size 
+  - Computer opponent with difficulty levels powered by the minimax algorithm
+  - Save/load functionality
+  - Graphical user interface built using SDL2
 
 
 ### 2. **Smaller Projects**
